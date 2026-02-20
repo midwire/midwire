@@ -17,3 +17,4 @@ jobs:
           base: header, activity, community, repositories
           plugin_lines: yes
           plugin_traffic: yes
+          plugin_achievements: yes
